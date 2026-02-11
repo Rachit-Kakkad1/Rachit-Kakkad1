@@ -17,13 +17,12 @@ Building <b>real-world intelligent systems</b> from
 
 ---
 
-# ⚡ Currently Building
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Local%20AI%20Copilot-In%20Progress-00f7ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real-Time%20Backend-Designing-0aa6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA%20%26%20System%20Design-Daily%20Practice-0077ff?style=for-the-badge" />
-</p>
+<!-- AUTO-CURRENT-START -->
+## ⚡ Currently Building
+Loading...
+<!-- AUTO-CURRENT-END -->
+
 
 ---
 
