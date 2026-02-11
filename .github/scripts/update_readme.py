@@ -8,7 +8,14 @@ README_PATH = "README.md"
 def get_latest_repo():
     url = f"https://api.github.com/users/{USERNAME}/repos?sort=pushed"
     repos = requests.get(url).json()
-    return repos[0]["name"]
+
+    for repo in repos:
+        # skip profile repo (same as username)
+        if repo["name"].lower() != USERNAME.lower():
+            return repo["name"]
+
+    return USERNAME
+
 
 def get_latest_commit(repo):
     url = f"https://api.github.com/repos/{USERNAME}/{repo}/commits"
