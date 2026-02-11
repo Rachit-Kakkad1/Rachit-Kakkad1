@@ -1,21 +1,51 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO ================= -->
+
+<h1 align="center">Rachit Kakkad</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rachit%20Kakkad&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+Backend Systems Engineer • AI Builder • Real-Time Architecture Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Systems+Builder;AI+%26+Data+Science+Enthusiast;Future+AI+Infrastructure+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Building+Real-World+Intelligent+Systems;Learning+System+Design+%26+DSA;Creating+AI+Developer+Tools;Future+AI+Infrastructure+Engineer" />
 </p>
 
 <p align="center">
-  Building <b>real-world intelligent systems</b> from  
-  <b>idea → architecture → production → scale</b>
+Building <b>real-world intelligent systems</b> from  
+<b>idea → architecture → production → scale</b>
 </p>
 
 ---
 
-# 🧠 CORE FOCUS
+# ⚡ Currently Building
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Local%20AI%20Copilot-In%20Progress-00f7ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real-Time%20Backend-Designing-0aa6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20%26%20System%20Design-Daily%20Practice-0077ff?style=for-the-badge" />
+</p>
+
+---
+
+# 🧠 Daily Engineering Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+# 👁️ Profile Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rachit-Kakkad1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rachit-Kakkad1?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Rachit-Kakkad1?style=for-the-badge" />
+</p>
+
+---
+
+# 🧠 Core Focus
 
 **Backend Systems × AI Intelligence × Real-Time Execution**
 
@@ -27,7 +57,7 @@ Engineering for:
 
 ---
 
-# 🚀 FLAGSHIP PROJECTS
+# 🚀 Flagship Projects
 
 ## JARVIS — Autonomous Desktop AI
 Python • AsyncIO • AI APIs • Native OS Control  
@@ -68,72 +98,41 @@ Node.js • React • MongoDB • TypeScript
 
 ---
 
-# 🛠 TECH STACK
+# 🛠 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
 </p>
 
-## ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
 </p>
 
-## 🤖 Data Science
+### 🤖 Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow" />
 </p>
-Matplotlib (visualization)
 
-## ☁️ Deployment
+### ☁️ Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
-Render
 
-## 🧰 Tools
+### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,figma" />
 </p>
 
 ---
 
-# 🚀 SKILL PROGRESS
-
-<p align="center">
-<img src="https://progress-bar.dev/90/?title=JavaScript&width=500&color=00f7ff" />
-<img src="https://progress-bar.dev/85/?title=React&width=500&color=00f7ff" />
-<img src="https://progress-bar.dev/80/?title=Node.js&width=500&color=00f7ff" />
-<img src="https://progress-bar.dev/88/?title=Python&width=500&color=00f7ff" />
-<img src="https://progress-bar.dev/75/?title=Data%20Science&width=500&color=00f7ff" />
-<img src="https://progress-bar.dev/82/?title=FastAPI&width=500&color=00f7ff" />
-</p>
-
----
-
-# 🧊 GLASS TECH GRID
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,python,fastapi,numpy,pandas,tensorflow,c,cpp,github,postman,figma,vercel,netlify&perline=6" />
-</p>
-
----
-
-# 🌌 NEON TECH STACK
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=github_dark&gap=8&line1=react,React,61DAFB;node.js,Node.js,339933;python,Python,3776AB;&line2=fastapi,FastAPI,009688;pandas,Pandas,150458;tensorflow,TensorFlow,FF6F00;&line3=vercel,Vercel,000000;netlify,Netlify,00C7B7;github,GitHub,FFFFFF;" />
-</p>
-
----
-
-# 📊 GITHUB STATS
+# 📊 GitHub Intelligence
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -146,15 +145,15 @@ Render
 
 ---
 
-# 🧩 LEETCODE
+# 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&font=baloo&ext=heatmap" height="260"/>
+  <img src="https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&ext=heatmap" height="260"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -162,7 +161,7 @@ Render
 
 ---
 
-# 📫 CONNECT
+# 📫 Connect
 
 <p align="center">
   <a href="mailto:kakkadrachit1@gmail.com">
@@ -187,5 +186,5 @@ One real system at a time.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer"/>
 </p>
