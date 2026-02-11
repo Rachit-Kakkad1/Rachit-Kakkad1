@@ -1,9 +1,9 @@
-name: Auto Update README
+name: Intelligent README Dashboard
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   # every 24 hours
-  workflow_dispatch:          # allow manual run
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -21,10 +21,10 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Install deps
         run: pip install requests
 
-      - name: Run updater
+      - name: Run dashboard script
         run: python .github/scripts/update_readme.py
 
       - name: Commit changes
@@ -32,5 +32,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "🔄 Auto-update README" || echo "No changes"
+          git commit -m "🤖 Update intelligent dashboard" || echo "No changes"
           git push
