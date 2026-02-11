@@ -1,112 +1,109 @@
-
-<!-- ============ HERO HEADER ============ -->
-
-<h1 align="center">Hi 👋, I'm Rachit Kakkad</h1>
-<h3 align="center">Backend Engineer • AI Systems Builder • Data-Driven Problem Solver</h3>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-I design <b>clean backends</b>, <b>interactive frontends</b>, and <b>intelligent real-world systems</b> —  
-from <b>Figma → React → Python → Cloud deployment</b>, end-to-end.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rachit%20Kakkad&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rachit-Kakkad1&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Rachit-Kakkad1?label=Followers&style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Systems+Builder;AI+%26+Data+Science+Enthusiast;Future+AI+Infrastructure+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header"/>
+  Building <b>real-world intelligent systems</b> from  
+  <b>idea → architecture → production → scale</b>
 </p>
 
 ---
 
-# 🚀 About Me
+# ⚡ WHY THIS PROFILE EXISTS
 
-- 🔭 Building **scalable backend systems** with Python, Firebase, and MongoDB  
-- 🤖 Integrating **AI/ML intelligence** into real production software  
-- ⚙️ Focused on **low-latency execution, deterministic behavior, and clean architecture**  
-- 🌱 Learning **deep learning, async systems, cloud scalability, and system design**  
-- 🤝 Open to **hackathons, AI tools, full-stack products, and impactful real-world tech**
+Most code online is **tutorial code**.  
+Most projects are **never used**.  
+Most systems are **not built to last**.
 
----
+This profile documents the journey toward building:
 
-# 🧠 Engineering Philosophy
-
-> **Clarity over complexity.  
-Determinism over randomness.  
-Real-world impact over visual novelty.**
-
-I build software that is:
-
-**scalable • observable • maintainable • production-ready**
-
----
-# 🚀 Featured Projects
-
-## 🤖 JARVIS — Real-Time AI Personal Assistant  
-**Python · AsyncIO · AI APIs · Windows Automation**
-
-Low-latency, context-aware AI designed for **real desktop automation**  
-and extensible **autonomous workflows**.
-
-**Core capabilities**
-- Persistent conversational memory  
-- Direct OS control (keyboard, mouse, filesystem, execution)  
-- Real-time internet querying with adaptive responses  
-- Modular architecture for scalable AI agents  
-
-🔗 Repo: https://github.com/Rachit-Kakkad1/autonomous-agent  
-🌐 Live: *Not deployed*
+- reliable real-world software  
+- intelligent autonomous systems  
+- scalable backend infrastructure  
+- technology people actually depend on  
 
 ---
 
-## 🏆 CodingGita Auction — Deterministic Real-Time Platform  
-**React · TypeScript · Express · MongoDB**
+# 🧠 CORE DIRECTION
 
-Engineered for **live institutional environments** where  
-**timing precision, fairness, and reliability are critical**.
+**Backend Systems × AI Intelligence × Real-Time Execution**
 
-**Core systems**
-- Instant synchronized bidding  
-- Deterministic auction ordering  
-- Budget enforcement & credit tracking  
-- Drift-resistant countdown timers  
-- MongoDB logging + Google Sheets sync  
+Focused on:
 
-🔗 Repo: https://github.com/Rachit-Kakkad1/AUCTION_WEB  
-🌐 Live: https://codinggita-auction.vercel.app/
+**correctness • latency • scalability • observability • reliability**
+
+> If a system isn’t reliable, intelligence doesn’t matter.
 
 ---
 
-## 🛡️ ThreatLens — Ethical Cybersecurity Analysis Platform  
-**Node.js · React · MongoDB · TypeScript**
+# 🚀 FLAGSHIP SYSTEMS
 
-Education-first platform explaining **vulnerabilities without exploitation**.
+## JARVIS — Autonomous Desktop AI
+Python • AsyncIO • AI APIs • Native OS Control
 
-**Design principles**
-- Deterministic static analysis  
-- Explainable risk scoring  
-- Read-only AI learning guidance  
-- Historical dashboards & misuse safeguards  
+- persistent contextual memory  
+- real OS interaction  
+- live internet reasoning  
+- modular agent architecture  
 
-🔗 Repo: https://github.com/Rachit-Kakkad1/ThreatLens  
-🌐 Live: https://threatlens-topaz.vercel.app/
+🔗 https://github.com/Rachit-Kakkad1/autonomous-agent
 
 ---
 
-# 🛠 Tech Universe
+## CodingGita Auction — Deterministic Real-Time Engine
+React • TypeScript • Express • MongoDB
+
+- synchronized live bidding  
+- deterministic conflict resolution  
+- strict budget enforcement  
+- drift-resistant countdown timers  
+- full audit logging  
+
+🌐 https://codinggita-auction.vercel.app  
+🔗 https://github.com/Rachit-Kakkad1/AUCTION_WEB
+
+---
+
+## ThreatLens — Ethical Security Intelligence
+Node.js • React • MongoDB • TypeScript
+
+- static vulnerability reasoning  
+- explainable scoring  
+- read-only AI learning guidance  
+- misuse-resistant design  
+
+🌐 https://threatlens-topaz.vercel.app  
+🔗 https://github.com/Rachit-Kakkad1/ThreatLens
+
+---
+
+# 🛠 TECH STACK
+
+**Languages**  
+Python • JavaScript • TypeScript  
+
+**Backend**  
+FastAPI • Node.js • Express • MongoDB • Firebase  
+
+**Frontend**  
+React • Tailwind  
+
+**Cloud / DevOps**  
+Docker • AWS • GCP • GitHub Actions  
+
+---
+
+# 📊 GITHUB INTELLIGENCE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,firebase,fastapi,docker,aws,gcp,tailwind,figma,git,github,vscode&perline=9" />
-</p>
-
----
-
-# 📊 GitHub Intelligence
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Kakkad1&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Kakkad1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -115,20 +112,20 @@ Education-first platform explaining **vulnerabilities without exploitation**.
 
 ---
 
-# 🏆 LeetCode Signal
+# 🧩 LEETCODE SIGNAL
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&font=baloo&ext=heatmap" height="260"/>
 </p>
 
 <p align="center">
-Focused on <b>data structures, algorithms, and optimal complexity reasoning</b>  
-with emphasis on <b>clean logic and interview-grade solutions</b>.
+Focused on <b>data structures, algorithms, and optimal complexity reasoning</b><br/>
+Solving problems for <b>clean logic, correctness, and interview-grade thinking</b>.
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -136,40 +133,48 @@ with emphasis on <b>clean logic and interview-grade solutions</b>.
 
 ---
 
-# 🤝 Collaboration
+# 🎯 CURRENT FOCUS
 
-Interested in building:
+- AI **agents & reasoning systems**  
+- **distributed backend architecture**  
+- **event-driven real-time infrastructure**  
+- **production reliability & observability**
 
-- AI-powered developer tools  
-- Real-time analytics platforms  
-- Scalable backend infrastructure  
-- High-impact open-source systems  
-- Elite hackathon prototypes  
+Goal:
 
-**If you're building something meaningful — let’s connect.**
-
----
-
-# 📫 Connect
-
-<p align="center">
-  <a href="mailto:kakkadrachit1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://www.linkedin.com/in/rachit-kakkad-r29052007k/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://x.com/rachit_kakk2957"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://instagram.com/void.ln404"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-</p>
-
+> Build systems that still work at scale, at 3 AM, under pressure.
 
 ---
 
-# ⚡ Final Philosophy
+# 🤝 COLLABORATION
+
+Open to building:
+
+- AI-native developer tools  
+- real-time analytics platforms  
+- scalable backend infrastructure  
+- high-impact open-source systems  
+
+If you're building something **serious**, let's connect.
+
+---
+
+# 📫 CONTACT
+
+Email → **kakkadrachit1@gmail.com**  
+LinkedIn → **https://linkedin.com/in/rachit-kakkad-r29052007k**  
+X → **https://x.com/rachit_kakk2957**
+
+---
 
 <p align="center">
-<b>Build what matters.  
-Ship fast.  
-Refine relentlessly.</b>
+<b>
+Not chasing trends.  
+Chasing mastery.  
+One real system at a time.
+</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
