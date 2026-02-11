@@ -15,26 +15,11 @@
 
 ---
 
-# ⚡ WHY THIS PROFILE EXISTS
-
-Most code online is **tutorial code**.  
-Most projects are **never used**.  
-Most systems are **not built to last**.
-
-This profile documents the journey toward building:
-
-- reliable real-world software  
-- intelligent autonomous systems  
-- scalable backend infrastructure  
-- technology people actually depend on  
-
----
-
-# 🧠 CORE DIRECTION
+# 🧠 CORE FOCUS
 
 **Backend Systems × AI Intelligence × Real-Time Execution**
 
-Focused on:
+Engineering for:
 
 **correctness • latency • scalability • observability • reliability**
 
@@ -42,10 +27,10 @@ Focused on:
 
 ---
 
-# 🚀 FLAGSHIP SYSTEMS
+# 🚀 FLAGSHIP PROJECTS
 
 ## JARVIS — Autonomous Desktop AI
-Python • AsyncIO • AI APIs • Native OS Control
+Python • AsyncIO • AI APIs • Native OS Control  
 
 - persistent contextual memory  
 - real OS interaction  
@@ -57,7 +42,7 @@ Python • AsyncIO • AI APIs • Native OS Control
 ---
 
 ## CodingGita Auction — Deterministic Real-Time Engine
-React • TypeScript • Express • MongoDB
+React • TypeScript • Express • MongoDB  
 
 - synchronized live bidding  
 - deterministic conflict resolution  
@@ -71,7 +56,7 @@ React • TypeScript • Express • MongoDB
 ---
 
 ## ThreatLens — Ethical Security Intelligence
-Node.js • React • MongoDB • TypeScript
+Node.js • React • MongoDB • TypeScript  
 
 - static vulnerability reasoning  
 - explainable scoring  
@@ -85,21 +70,70 @@ Node.js • React • MongoDB • TypeScript
 
 # 🛠 TECH STACK
 
-**Languages**  
-Python • JavaScript • TypeScript  
+## 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
+</p>
 
-**Backend**  
-FastAPI • Node.js • Express • MongoDB • Firebase  
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+</p>
 
-**Frontend**  
-React • Tailwind  
+## ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
 
-**Cloud / DevOps**  
-Docker • AWS • GCP • GitHub Actions  
+## 🤖 Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow" />
+</p>
+Matplotlib (visualization)
+
+## ☁️ Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+Render
+
+## 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,postman,figma" />
+</p>
 
 ---
 
-# 📊 GITHUB INTELLIGENCE
+# 🚀 SKILL PROGRESS
+
+<p align="center">
+<img src="https://progress-bar.dev/90/?title=JavaScript&width=500&color=00f7ff" />
+<img src="https://progress-bar.dev/85/?title=React&width=500&color=00f7ff" />
+<img src="https://progress-bar.dev/80/?title=Node.js&width=500&color=00f7ff" />
+<img src="https://progress-bar.dev/88/?title=Python&width=500&color=00f7ff" />
+<img src="https://progress-bar.dev/75/?title=Data%20Science&width=500&color=00f7ff" />
+<img src="https://progress-bar.dev/82/?title=FastAPI&width=500&color=00f7ff" />
+</p>
+
+---
+
+# 🧊 GLASS TECH GRID
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,python,fastapi,numpy,pandas,tensorflow,c,cpp,github,postman,figma,vercel,netlify&perline=6" />
+</p>
+
+---
+
+# 🌌 NEON TECH STACK
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=github_dark&gap=8&line1=react,React,61DAFB;node.js,Node.js,339933;python,Python,3776AB;&line2=fastapi,FastAPI,009688;pandas,Pandas,150458;tensorflow,TensorFlow,FF6F00;&line3=vercel,Vercel,000000;netlify,Netlify,00C7B7;github,GitHub,FFFFFF;" />
+</p>
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -112,15 +146,10 @@ Docker • AWS • GCP • GitHub Actions
 
 ---
 
-# 🧩 LEETCODE SIGNAL
+# 🧩 LEETCODE
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&font=baloo&ext=heatmap" height="260"/>
-</p>
-
-<p align="center">
-Focused on <b>data structures, algorithms, and optimal complexity reasoning</b><br/>
-Solving problems for <b>clean logic, correctness, and interview-grade thinking</b>.
 </p>
 
 ---
@@ -133,37 +162,19 @@ Solving problems for <b>clean logic, correctness, and interview-grade thinking</
 
 ---
 
-# 🎯 CURRENT FOCUS
+# 📫 CONNECT
 
-- AI **agents & reasoning systems**  
-- **distributed backend architecture**  
-- **event-driven real-time infrastructure**  
-- **production reliability & observability**
-
-Goal:
-
-> Build systems that still work at scale, at 3 AM, under pressure.
-
----
-
-# 🤝 COLLABORATION
-
-Open to building:
-
-- AI-native developer tools  
-- real-time analytics platforms  
-- scalable backend infrastructure  
-- high-impact open-source systems  
-
-If you're building something **serious**, let's connect.
-
----
-
-# 📫 CONTACT
-
-Email → **kakkadrachit1@gmail.com**  
-LinkedIn → **https://linkedin.com/in/rachit-kakkad-r29052007k**  
-X → **https://x.com/rachit_kakk2957**
+<p align="center">
+  <a href="mailto:kakkadrachit1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/rachit-kakkad-r29052007k">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://x.com/rachit_kakk2957">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+</p>
 
 ---
 
