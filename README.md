@@ -21,18 +21,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 lifelens-ai-dashboard
+### 🚀 CGxSU_Semester_1
 
 - ⭐ **Stars:** 0  
-- 🧠 **Primary Language:** TypeScript  
-- 📝 **Latest Commit:** feat: Implement core dashboard with AI coach insights, sustainability metrics, and a new landing page.  
-- 🌐 **Live Demo:** https://lifelens-ai-dashboard.vercel.app  
-- ⏱ **Updated:** 2026-02-12 02:31 UTC
+- 🧠 **Primary Language:** JavaScript  
+- 📝 **Latest Commit:** Update 04.Filter.md  
+- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
+- ⏱ **Updated:** 2026-02-13 02:33 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
