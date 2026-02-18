@@ -26,18 +26,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 lifelens-ai-dashboard
+### 🚀 Render_Practise
 
 - ⭐ **Stars:** 0  
 - 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** feat: implement initial dashboard page with key metrics, data visualization, and AI-driven insights and weekly plans.  
-- 🌐 **Live Demo:** https://lifelens-ai-dashboard.vercel.app  
-- ⏱ **Updated:** 2026-02-17 02:26 UTC
+- 📝 **Latest Commit:** feat: Add initial Node.js server setup and install project dependencies.  
+- 🌐 **Live Demo:** https://Render_Practise.vercel.app  
+- ⏱ **Updated:** 2026-02-18 02:29 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
