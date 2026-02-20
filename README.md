@@ -28,18 +28,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 Render_Practise
+### 🚀 CodingGita_Auction
 
 - ⭐ **Stars:** 0  
-- 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** feat: Add initial Node.js server setup and install project dependencies.  
-- 🌐 **Live Demo:** https://Render_Practise.vercel.app  
-- ⏱ **Updated:** 2026-02-19 02:28 UTC
+- 🧠 **Primary Language:** TypeScript  
+- 📝 **Latest Commit:** feat: Implement initial frontend application with a cinematic landing page, auction selection, and Zustand-based auction state management.  
+- 🌐 **Live Demo:** https://codinggita-auction.vercel.app/  
+- ⏱ **Updated:** 2026-02-20 02:24 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
