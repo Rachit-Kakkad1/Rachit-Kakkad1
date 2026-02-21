@@ -29,18 +29,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 CodingGita_Auction
+### 🚀 OdooXGujaratVidhyapeeth
 
 - ⭐ **Stars:** 0  
-- 🧠 **Primary Language:** TypeScript  
-- 📝 **Latest Commit:** feat: Implement initial frontend application with a cinematic landing page, auction selection, and Zustand-based auction state management.  
-- 🌐 **Live Demo:** https://codinggita-auction.vercel.app/  
-- ⏱ **Updated:** 2026-02-20 02:24 UTC
+- 🧠 **Primary Language:** Unknown  
+- 📝 **Latest Commit:** Initial commit  
+- 🌐 **Live Demo:** https://OdooXGujaratVidhyapeeth.vercel.app  
+- ⏱ **Updated:** 2026-02-21 02:10 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
