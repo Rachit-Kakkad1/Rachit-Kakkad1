@@ -32,18 +32,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 FleetFlow
+### 🚀 CGxSU_Semester_1
 
 - ⭐ **Stars:** 0  
 - 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** docs: fix README formatting and center alignment  
-- 🌐 **Live Demo:** https://FleetFlow.vercel.app  
-- ⏱ **Updated:** 2026-02-23 02:29 UTC
+- 📝 **Latest Commit:** Created React Native folder and done with the updation part  
+- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
+- ⏱ **Updated:** 2026-02-24 02:26 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
