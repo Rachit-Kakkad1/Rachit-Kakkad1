@@ -33,18 +33,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 CGxSU_Semester_1
+### 🚀 CG__Assignment
 
 - ⭐ **Stars:** 0  
 - 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** Created React Native folder and done with the updation part  
-- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
-- ⏱ **Updated:** 2026-02-24 02:26 UTC
+- 📝 **Latest Commit:** feat: Add E-Commerce REST API assignment entry to README.  
+- 🌐 **Live Demo:** https://CG__Assignment.vercel.app  
+- ⏱ **Updated:** 2026-02-25 02:27 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
