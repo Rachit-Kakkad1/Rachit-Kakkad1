@@ -42,18 +42,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 CG__Assignment
+### 🚀 CGxSU_Semester_1
 
 - ⭐ **Stars:** 0  
 - 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** chore: Install initial project dependencies and create .gitignore.  
-- 🌐 **Live Demo:** https://CG__Assignment.vercel.app  
-- ⏱ **Updated:** 2026-03-05 02:23 UTC
+- 📝 **Latest Commit:** Add timetable entries for March 5, 6, and 7  
+- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
+- ⏱ **Updated:** 2026-03-05 11:44 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
