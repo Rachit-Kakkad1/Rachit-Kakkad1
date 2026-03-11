@@ -48,18 +48,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 agricert-platform
+### 🚀 HackCruz-COS
 
 - ⭐ **Stars:** 0  
-- 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** feat: Initialize Express server with core middleware, routes, Socket.IO, and MongoDB connection.  
-- 🌐 **Live Demo:** https://agricert-platform.vercel.app  
-- ⏱ **Updated:** 2026-03-10 02:12 UTC
+- 🧠 **Primary Language:** Python  
+- 📝 **Latest Commit:** feat: initial commit for HackCruz-COS project including backend and frontend architecture  
+- 🌐 **Live Demo:** https://HackCruz-COS.vercel.app  
+- ⏱ **Updated:** 2026-03-11 02:12 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
