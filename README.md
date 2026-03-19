@@ -55,18 +55,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 build-with-ai-hackcrux-2026
+### 🚀 CGxSU_Semester_1
 
 - ⭐ **Stars:** 0  
 - 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** feat: complete UI redesign across 3 products with premium design system and world-class landing page  
-- 🌐 **Live Demo:** https://build-with-ai-hackcrux-2026.vercel.app  
-- ⏱ **Updated:** 2026-03-17 02:25 UTC
+- 📝 **Latest Commit:** Two more nav components are added  
+- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
+- ⏱ **Updated:** 2026-03-19 02:31 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
