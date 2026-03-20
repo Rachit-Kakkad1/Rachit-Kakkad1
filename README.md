@@ -56,18 +56,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 CGxSU_Semester_1
+### 🚀 Rk-Portfolio
 
 - ⭐ **Stars:** 0  
-- 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** Two more nav components are added  
-- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
-- ⏱ **Updated:** 2026-03-19 02:31 UTC
+- 🧠 **Primary Language:** TypeScript  
+- 📝 **Latest Commit:** feat: Implement core portfolio sections including projects, about, and keyboard, and integrate 3D rendering dependencies.  
+- 🌐 **Live Demo:** https://rachit-hk-portfolio.vercel.app  
+- ⏱ **Updated:** 2026-03-20 02:24 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
