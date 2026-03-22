@@ -58,18 +58,20 @@ Building <b>real-world intelligent systems</b> from
 
 
 
+
 <!-- AUTO-DASHBOARD-START -->
 ## ⚡ Currently Building
 
-### 🚀 CGxSU_Semester_1
+### 🚀 Odoo_X_GV_PLM
 
 - ⭐ **Stars:** 0  
 - 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** 02.node_api_concepts folder uploaded  
-- 🌐 **Live Demo:** https://CGxSU_Semester_1.vercel.app  
-- ⏱ **Updated:** 2026-03-21 02:11 UTC
+- 📝 **Latest Commit:** feat: add BoM detail page to display bill of materials information, components, and operations  
+- 🌐 **Live Demo:** https://plm-x-odoo.vercel.app  
+- ⏱ **Updated:** 2026-03-22 02:32 UTC
 
 <!-- AUTO-DASHBOARD-END -->
+
 
 
 
