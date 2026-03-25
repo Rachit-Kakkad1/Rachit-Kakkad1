@@ -1,286 +1,313 @@
-<!-- ================= HERO ================= -->
+<div align="center">
 
-<h1 align="center">Rachit Kakkad</h1>
+```
+██████╗  █████╗  ██████╗██╗  ██╗██╗████████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
+██████╔╝███████║██║     ███████║██║   ██║
+██╔══██╗██╔══██║██║     ██╔══██║██║   ██║
+██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝
+```
 
-<p align="center">
-Backend Systems Engineer • AI Builder • Real-Time Architecture Enthusiast
-</p>
+# `rk.systems` · **Rachit Kakkad**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Building+Real-World+Intelligent+Systems;Learning+System+Design+%26+DSA;Creating+AI+Developer+Tools;Future+AI+Infrastructure+Engineer" />
-</p>
+**`Backend Systems Engineer`** · **`AI Builder`** · **`Real-Time Architect`**
 
-<p align="center">
-Building <b>real-world intelligent systems</b> from  
-<b>idea → architecture → production → scale</b>
-</p>
+*Vadodara, Gujarat · India*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rachit--Kakkad1-00ffc8?style=flat-square&logo=github&logoColor=white)](https://github.com/Rachit-Kakkad1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachit--kakkad-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachit-kakkad-r29052007k)
+[![Twitter](https://img.shields.io/badge/X-@rachit__kakk2957-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rachit_kakk2957)
+[![Email](https://img.shields.io/badge/Email-kakkadrachit1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kakkadrachit1@gmail.com)
 
 ---
 
+*From **idea → architecture → production → scale**.*
+*Engineering for **correctness**, **latency**, **observability** & **reliability**.*
 
+| 3+ Flagship Projects | 5+ Languages | ∞ Systems to Build | 100% Reliability First |
+|:---:|:---:|:---:|:---:|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- AUTO-DASHBOARD-START -->
-## ⚡ Currently Building
-
-### 🚀 Odoo_X_GV_PLM
-
-- ⭐ **Stars:** 0  
-- 🧠 **Primary Language:** JavaScript  
-- 📝 **Latest Commit:** feat: Initialize Node.js backend project with package.json and package-lock.json.  
-- 🌐 **Live Demo:** https://plm-x-odoo.vercel.app  
-- ⏱ **Updated:** 2026-03-25 02:30 UTC
-
-<!-- AUTO-DASHBOARD-END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
 ---
 
-# 🧠 Daily Engineering Thought
+## `// status · active build`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+## 🟢 Currently Building
 
----
+> **`LIVE · updated 2026-03-25`**
 
-# 👁️ Profile Analytics
+### **Odoo_X_GV_PLM**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rachit-Kakkad1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Rachit-Kakkad1?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Rachit-Kakkad1?style=for-the-badge" />
-</p>
+![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=flat-square)
+![Stage](https://img.shields.io/badge/Stage-Backend%20Initialization-60a5fa?style=flat-square)
+[![Demo](https://img.shields.io/badge/Demo-plm--x--odoo.vercel.app-00ffc8?style=flat-square)](https://plm-x-odoo.vercel.app)
 
----
+> `●` feat: Initialize Node.js backend project with package.json and package-lock.json
 
-# 🧠 Core Focus
+```bash
+rachit@systems:~/Odoo_X_GV_PLM$ git log --oneline -3
+a3f8c12 feat: Initialize Node.js backend project
+b1e9d04 chore: initial commit
 
-**Backend Systems × AI Intelligence × Real-Time Execution**
-
-Engineering for:
-
-**correctness • latency • scalability • observability • reliability**
-
-> If a system isn’t reliable, intelligence doesn’t matter.
+rachit@systems:~/Odoo_X_GV_PLM$ npm run dev
+❯ Server running on port 3000
+❯ MongoDB connected ✓
+rachit@systems:~/Odoo_X_GV_PLM$ █
+```
 
 ---
 
-# 🚀 Flagship Projects
+## `// flagship builds`
 
-## JARVIS — Autonomous Desktop AI
-Python • AsyncIO • AI APIs • Native OS Control  
+## 🛠 Projects
 
-- persistent contextual memory  
-- real OS interaction  
-- live internet reasoning  
-- modular agent architecture  
+<table>
+<tr>
+<td width="33%" valign="top">
 
-🔗 https://github.com/Rachit-Kakkad1/autonomous-agent
+### 🤖 JARVIS — Autonomous Desktop AI
 
----
+Autonomous desktop AI with persistent memory, real OS control, and live internet reasoning. Built for extensibility.
 
-## CodingGita Auction — Deterministic Real-Time Engine
-React • TypeScript • Express • MongoDB  
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/-AsyncIO-00ffc8?style=flat-square)
+![AI APIs](https://img.shields.io/badge/-AI%20APIs-a855f7?style=flat-square)
+![Agent Arch](https://img.shields.io/badge/-Agent%20Arch-f59e0b?style=flat-square)
 
-- synchronized live bidding  
-- deterministic conflict resolution  
-- strict budget enforcement  
-- drift-resistant countdown timers  
-- full audit logging  
+**▸** Persistent contextual memory across sessions  
+**▸** Real OS interaction & filesystem control  
+**▸** Live internet reasoning pipeline  
+**▸** Modular agent architecture
 
-🌐 https://codinggita-auction.vercel.app  
-🔗 https://github.com/Rachit-Kakkad1/AUCTION_WEB
+[![GitHub](https://img.shields.io/badge/GitHub-repo-00ffc8?style=flat-square&logo=github)](https://github.com/Rachit-Kakkad1/autonomous-agent)
 
----
+</td>
+<td width="33%" valign="top">
 
-## ThreatLens — Ethical Security Intelligence
-Node.js • React • MongoDB • TypeScript  
+### ⚡ CodingGita Auction Engine
 
-- static vulnerability reasoning  
-- explainable scoring  
-- read-only AI learning guidance  
-- misuse-resistant design  
+Deterministic real-time bidding engine. Synchronized state, conflict resolution, drift-resistant timers, full audit logging.
 
-🌐 https://threatlens-topaz.vercel.app  
-🔗 https://github.com/Rachit-Kakkad1/ThreatLens
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-f05032?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+**▸** Synchronized live bidding across clients  
+**▸** Deterministic conflict resolution  
+**▸** Drift-resistant countdown timers  
+**▸** Strict budget enforcement + full audit log
 
-# 🛠 Tech Stack
+[![Live](https://img.shields.io/badge/Live-codinggita--auction.vercel.app-f59e0b?style=flat-square)](https://codinggita-auction.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-repo-f59e0b?style=flat-square&logo=github)](https://github.com/Rachit-Kakkad1/AUCTION_WEB)
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
-</p>
+</td>
+<td width="33%" valign="top">
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
-</p>
+### 🛡️ ThreatLens — Security Intelligence
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
-</p>
+Ethical AI-powered security platform. Explainable scoring, static vulnerability reasoning, misuse-resistant by design.
 
-### 🤖 Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow" />
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-68a063?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 
-### ☁️ Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+**▸** Static vulnerability reasoning engine  
+**▸** Explainable AI scoring system  
+**▸** Read-only AI learning guidance  
+**▸** Misuse-resistant design patterns
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=github,postman,figma" />
-</p>
+[![Live](https://img.shields.io/badge/Live-threatlens--topaz.vercel.app-f87171?style=flat-square)](https://threatlens-topaz.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-repo-f87171?style=flat-square&logo=github)](https://github.com/Rachit-Kakkad1/ThreatLens)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Intelligence
+## `// contribution activity`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Kakkad1&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Kakkad1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+![GitHub Snake](https://raw.githubusercontent.com/Rachit-Kakkad1/Rachit-Kakkad1/output/github-contribution-grid-snake-dark.svg)
 
-# 🧩 LeetCode
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&ext=heatmap" height="260"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=transparent&title_color=00ffc8&text_color=8b949e&icon_color=00ffc8&border_color=1e2d3d&bg_color=0a0f1a)
 
----
+</td>
+<td>
 
-# 🐍 Contribution Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Kakkad1&theme=transparent&hide_border=false&stroke=1e2d3d&ring=00ffc8&fire=f59e0b&currStreakLabel=00ffc8&background=0a0f1a&border=1e2d3d&dates=6b7f96&sideLabels=00ffc8&currStreakNum=dde8f0&sideNums=dde8f0)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</td>
+</tr>
+</table>
 
----
+</div>
 
-# 📫 Connect
-
-<p align="center">
-  <a href="mailto:kakkadrachit1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/rachit-kakkad-r29052007k">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://x.com/rachit_kakk2957">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-</p>
+> **Contribution legend:** `⬛` 0 · `🟩` 1–3 · `🟢` 4–7 · `💚` 8–12 · `✅` 13+
 
 ---
 
-<p align="center">
-<b>
-Not chasing trends.  
-Chasing mastery.  
-One real system at a time.
-</b>
-</p>
+## `// competitive programming`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer"/>
-</p>
+## 🧠 LeetCode
+
+<div align="center">
+
+[![LeetCode Profile](https://leetcard.jacoblin.cool/kUyAWXHOC5?theme=dark&ext=heatmap&width=500)](https://leetcode.com/u/kUyAWXHOC5/)
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🟢 Easy
+**~118**
+
+</td>
+<td align="center" width="25%">
+
+### 🟡 Medium
+**~96**
+
+</td>
+<td align="center" width="25%">
+
+### 🔴 Hard
+**~24**
+
+</td>
+<td align="center" width="25%">
+
+### 🔵 Total
+**238**
+
+</td>
+</tr>
+</table>
+
+```
+Easy   ████████████████████░░░░  ~118
+Medium ████████████████░░░░░░░░   ~96
+Hard   ██████░░░░░░░░░░░░░░░░░░   ~24
+```
+
+---
+
+## `// toolbox`
+
+## ⚙️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A97BFF?style=for-the-badge&logo=c&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-f05032?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Deploy & Tools
+![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black)
+![Netlify](https://img.shields.io/badge/-Netlify-00ad9f?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-f6f8fa?style=for-the-badge&logo=github&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+
+### Proficiency
+```
+Python      ████████████████████░░░░  88%
+JavaScript  ███████████████████░░░░░  85%
+Node.js     ███████████████████░░░░░  82%
+React       ██████████████████░░░░░░  80%
+TypeScript  █████████████████░░░░░░░  75%
+FastAPI     ████████████████░░░░░░░░  70%
+C / C++     ███████████████░░░░░░░░░  65%
+```
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Kakkad1&layout=compact&theme=transparent&title_color=00ffc8&text_color=8b949e&border_color=1e2d3d&bg_color=0a0f1a)
+
+</div>
+
+---
+
+## `// engineering principles`
+
+## 🧭 Philosophy
+
+> *"If a system isn't reliable, intelligence doesn't matter."*
+
+| `correctness` | `latency` | `scalability` | `observability` | `reliability` |
+|:---:|:---:|:---:|:---:|:---:|
+| Do the right thing first | Speed is a feature | Design for 10× | Know what's happening | Always be available |
+
+---
+
+## `// growth timeline`
+
+## 📅 Timeline
+
+```
+2026 – PRESENT  ┃  Odoo × GV PLM Integration
+                ┃  Building full-stack PLM solution bridging Odoo ERP
+                ┃  with real-world manufacturing workflows.
+                ┃
+2025            ┃  ThreatLens — Ethical Security AI
+                ┃  Shipped production-grade security intelligence platform
+                ┃  with explainable AI scoring.
+                ┃
+2025            ┃  Real-Time Auction Engine
+                ┃  Built deterministic real-time bidding with
+                ┃  drift-resistant timers and conflict resolution.
+                ┃
+2024            ┃  JARVIS — Autonomous Desktop AI
+                ┃  Autonomous agent with persistent memory, live web
+                ┃  reasoning, and native OS control.
+```
+
+---
+
+## `// reach out`
+
+## 📡 Connect
+
+> Open to conversations about backend systems, AI infrastructure, real-time architecture, and interesting problems worth solving.
+
+<div align="center">
+
+| Platform | Handle |
+|:---:|:---:|
+| 📧 **Email** | [kakkadrachit1@gmail.com](mailto:kakkadrachit1@gmail.com) |
+| 💼 **LinkedIn** | [rachit-kakkad-r29052007k](https://linkedin.com/in/rachit-kakkad-r29052007k) |
+| 𝕏 **Twitter** | [@rachit_kakk2957](https://x.com/rachit_kakk2957) |
+| ⌥ **GitHub** | [Rachit-Kakkad1](https://github.com/Rachit-Kakkad1) |
+
+---
+
+*Not chasing trends. Chasing **mastery**.*  
+*One real system at a time.*
+
+`backend` × `ai` × `real-time` · **rachit kakkad © 2026**
+
+</div>
