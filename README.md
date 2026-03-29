@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Building+COS+%E2%80%94+Cognitive+Operating+System+%F0%9F%A7%A0;Co-founding+WorkSense+%40+Team+MindMesh+%F0%9F%9A%80;CS+Student+%2729+%C2%B7+Gandhinagar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Full+Stack+%C2%B7+AI+Engineer+%C2%B7+Real-Time+Architect+%E2%9A%A1;Hackathon+Builder+%C2%B7+Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Founder+of+COS+%E2%80%94+Cognitive+Operating+System+%F0%9F%A7%A0;AI+Engineer+%C2%B7+Systems+Thinker+%E2%9A%A1;Real-Time+Systems+%26+Scalable+Architecture+Builder;Hackathon+Winner+%C2%B7+Open+Source+Contributor+%F0%9F%8C%9F;CS+Student+%2729+%C2%B7+Gandhinagar%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
