@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=Hi%2C+I'm+Rachit+%F0%9F%91%8B;Building+AI+that+Thinks+%2B+Remembers+%2B+Acts;1st+Year+CS+%40+Swaminarayan+University;Rank+4+National+Finalist+%E2%80%94+IIT+Madras+National+Digital+Identity+Hackathon;2nd+Place+%E2%80%94+ElectroSphere+2K26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=1500&lines=Hi%2C+I'm+Rachit+%F0%9F%91%8B;Building+AI+that+Thinks+%2B+Remembers+%2B+Acts;1st+Year+CS+%40+Swaminarayan+University;Rank+4+National+Finalist+%E2%80%94+IIT+Madras+|+National+Digital+Identity+Hackathon;2nd+Place+%E2%80%94+ElectroSphere+2K26" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -50,7 +50,7 @@
 
 🎓 &nbsp;**1st Year B.Tech CS** @ Swaminarayan University, Kalol, Gujarat
 
-🏆 &nbsp;**Rank 4 National Finalist** — IIT Madras Shaastra Appian AI Challenge
+🏆 &nbsp;**Rank 4 National Finalist** — IIT Madras | National Digital Identity Hackathon
 
 🥈 &nbsp;**2nd Place** — ElectroSphere 2K26
 
@@ -358,9 +358,9 @@ APEX is an **AI-powered workforce intelligence platform** — a two-layer system
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Kakkad1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Kakkad1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> -->
 
 <br/><br/>
 
@@ -403,21 +403,5 @@ APEX is an **AI-powered workforce intelligence platform** — a two-layer system
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" width="100%"/>
-
-<br/>
-
-**"Systems that retain context will replace tools that reset every time."**
-
-<br/>
-
-*Crafted with intention by* ***Rachit Kakkad*** *— 1st year student. Production-grade builder. Founding what thinks.*
-
-<br/>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-&nbsp;
-<img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
-&nbsp;
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 
 </div>
