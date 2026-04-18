@@ -185,148 +185,6 @@
 ---
 
 <!-- ============================================================ -->
-<!--            FLAGSHIP PROJECT 1 — ARKIS                        -->
-<!-- ============================================================ -->
-
-## 🤖 ARKIS — Autonomous Reasoning & Knowledge Intelligence System
-
-> *Your AI. Your hardware. Your mind. No cloud. No compromise.*
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### ⚙️ What is ARKIS?
-
-ARKIS is a **local-first, voice-first Electron desktop AI assistant** built to run entirely on your machine — no API keys leaking, no data leaving your device. Think Iron Man's JARVIS, but real, private, and yours.
-
-**Core Capabilities:**
-- 🎙️ &nbsp;**Voice-First Interface** — Wake-word activated via Web Speech API
-- 💻 &nbsp;**OS-Level Control** — File, app, and system command execution
-- 🔒 &nbsp;**100% Private** — All inference on-device, zero cloud dependency
-- 🧠 &nbsp;**Persistent Memory** — Remembers context across sessions
-- 🌐 &nbsp;**3D Holographic UI** — React + Three.js JARVIS-style visual layer
-- 🤖 &nbsp;**Agentic Loop** — Reasoning → Planning → Execution pipeline
-
-**Vision:**
-> Not a tool you open. A system that's already running, already aware, already ready.
-
-**Status:** `⚡ Active — Holographic UI + Agentic Loop in Progress`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rachit-Kakkad1)
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/>
-
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="260"/>
-
-<br/><br/>
-
-```
-┌──────────────────────────────┐
-│      ARKIS Architecture      │
-├──────────────────────────────┤
-│  Voice Input (Web Speech)    │
-│           ↓                  │
-│  Intent Classification       │
-│           ↓                  │
-│  Memory Retrieval (RAG)      │
-│           ↓                  │
-│  Multi-Step Reasoning        │
-│           ↓                  │
-│  Tool Orchestration Layer    │
-│           ↓                  │
-│  Action + Memory Write       │
-│           ↓                  │
-│  3D Holographic Response UI  │
-└──────────────────────────────┘
-```
-
-<br/>
-<sub><i>"Fully online, sir. All systems nominal."</i></sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ============================================================ -->
-<!--            FLAGSHIP PROJECT 2 — APEX                         -->
-<!-- ============================================================ -->
-
-## 🏗️ APEX — Augmented Productivity & Execution System
-
-> *The intelligence layer enterprise teams never had. Context-aware. Always on.*
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🧠 What is APEX?
-
-APEX is an **AI-powered workforce intelligence platform** — a two-layer system combining smart hardware and per-seat SaaS to give teams real-time visibility into productivity, blockers, and execution gaps.
-
-**Core Architecture:**
-- 🔵 &nbsp;**Hardware Device** — Ambient workplace sensor, always-on context capture
-- 🟣 &nbsp;**AI Intelligence Layer** — Analyzes patterns, surfaces insights, flags blockers
-- 🟡 &nbsp;**Workforce Dashboard** — Team-level and individual execution visibility
-- 🟢 &nbsp;**Enterprise API** — Plug into existing tools: Slack, Jira, Notion, CRM
-
-**Why APEX exists:**
-> Every productivity tool shows you what happened. APEX tells you *why* and *what's blocking next*.
-
-**Achievements:**
-- 🏆 &nbsp;**National Finalist** — IIT Madras Shaastra Appian AI Challenge (Rank 4)
-- 📞 &nbsp;Confirmed follow-up call with judges on business model
-
-**Status:** `🔨 In Active Development — Post-Hackathon Build Phase`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rachit-Kakkad1)
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260" />
-
-<br/><br/>
-
-```
-┌──────────────────────────────┐
-│      APEX Architecture       │
-├──────────────────────────────┤
-│  Hardware Sensor Layer       │
-│           ↓                  │
-│  Context Capture Engine      │
-│           ↓                  │
-│  AI Pattern Recognition      │
-│           ↓                  │
-│  Blocker + Gap Analysis      │
-│           ↓                  │
-│  Workforce Intelligence API  │
-│           ↓                  │
-│  Per-Seat SaaS Dashboard     │
-└──────────────────────────────┘
-```
-
-<br/>
-<sub><i>"Visibility into execution, not just activity."</i></sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ============================================================ -->
 <!--                     LEETCODE STATS                           -->
 <!-- ============================================================ -->
 
@@ -358,13 +216,13 @@ APEX is an **AI-powered workforce intelligence platform** — a two-layer system
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Kakkad1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Kakkad1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Rachit-Kakkad1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rachit-Kakkad1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=percentile" height="180"/>
 
 <br/><br/>
 
