@@ -48,8 +48,6 @@
 
 🧠 &nbsp;Building **COS** — Cognitive Operating System with 8 local AI models
 
-🏗️ &nbsp;Building **GridSaathi** — AI infra monitoring for India's power grid
-
 🩺 &nbsp;Built **Sanjeevani** — AI-powered hospital bill auditing for Indian patients
 
 🌐 &nbsp;Portfolio → **[rachit-hk-portfolio.vercel.app](https://rachit-hk-portfolio.vercel.app)**
