@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&lines=Hi%2C+I'm+Rachit+%F0%9F%91%8B;Building+AI+that+Thinks+%2B+Remembers+%2B+Acts;1st+Year+CS+%40+Swaminarayan+University;Rank+4+National+Finalist+%E2%80%94+IIT+Madras;2nd+Place+%E2%80%94+ElectroSphere+2K26;GSSoC+2026+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rachit+%F0%9F%91%8B;AI+Systems+Engineer;2nd+Year+CS+%40+Swaminarayan+University;Rank+4+National+Finalist;2nd+Place+%E2%80%94+ElectroSphere+2K26;6th+Position+%E2%80%94+ECSoC+2026+(150%2B+Teams);Top+10+Finalist+%E2%80%94+Dev+Heat+2026;AWS+Student+Builder+Campus+Leader+2026" alt="Typing SVG" />
 </a>
 
 <br/><br/>
