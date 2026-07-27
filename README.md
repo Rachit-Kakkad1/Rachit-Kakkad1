@@ -36,27 +36,33 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-🎓 &nbsp;**1st Year B.Tech CS** @ Swaminarayan University, Kalol, Gujarat — **9.81 SGPA**
+🎓  **2nd Year B.Tech Computer Science** @ Swaminarayan University, Kalol, Gujarat
+📈  **9.81 SGPA**
 
-🏆 &nbsp;**Rank 4 National Finalist** — IIT Madras | National Digital Identity Hackathon
+🏆  **Rank 4 National Finalist** — **National Level Hackathon**
 
-🥈 &nbsp;**2nd Place** — ElectroSphere 2K26 (Software Edition)
+🥈  **2nd Place** — ElectroSphere 2K26 (Software Edition)
 
-🏅 &nbsp;**Top 10** — Dev Heat Hackathon @ IIIT Surat 2026
+🏅  **Top 10 Finalist** — Dev Heat Hackathon 2026 @ IIIT Surat
 
-🤖 &nbsp;Building **ARKIS** — Local-first, voice-first Electron AI desktop OS
+🚀  **Top 6 Finalist (150+ Teams)** — ECSoC Open Source Hackathon 2026
 
-🧠 &nbsp;Building **COS** — Cognitive Operating System with 8 local AI models
+☁️  **AWS Student Builder Campus Leader 2026**
 
-🩺 &nbsp;Built **Sanjeevani** — AI-powered hospital bill auditing for Indian patients
+🤖  Building **ARKIS** — A Local-First, Voice-First AI Desktop Operating System
 
-🌐 &nbsp;Portfolio → **[rachit-hk-portfolio.vercel.app](https://rachit-hk-portfolio.vercel.app)**
+🩺  Creator of **Sanjeevani** — AI-Powered Hospital Bill Auditing & Medical OCR Platform for Indian Patients
 
-📫 &nbsp;**[kakkadrachit1@gmail.com](mailto:kakkadrachit1@gmail.com)**
+💻  Passionate about **AI Systems • Full-Stack Development • System Design • Open Source • Computer Vision**
 
-💡 &nbsp;*First year student, production-grade builder. I don't just write code — I architect cognition.*
+🌐  Portfolio → **https://rachit-hk-portfolio.vercel.app**
+
+📫  **[kakkadrachit1@gmail.com](mailto:kakkadrachit1@gmail.com)**
+
+💡  *"I don't just build applications - I build intelligent systems that solve real-world problems."*
 
 <br clear="right"/>
+
 
 ---
 
