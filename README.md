@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rachit-Kakkad1&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=theRkakkad&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://github.com/Rachit-Kakkad1?tab=followers">
-  <img src="https://img.shields.io/github/followers/Rachit-Kakkad1?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS" />
+<a href="https://github.com/theRkakkad?tab=followers">
+  <img src="https://img.shields.io/github/followers/theRkakkad?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-10b981?style=for-the-badge" />
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://github.com/Rachit-Kakkad1">
+<a href="https://github.com/theRkakkad">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -398,7 +398,7 @@ UX / Frontend Navigation      ████░░░░░░░░░░  #197
 
 <br/>
 
-**[→ View Full GitHub Profile](https://github.com/Rachit-Kakkad1)**
+**[→ View Full GitHub Profile](https://github.com/theRkakkad)**
 
 </div>
 
@@ -423,12 +423,12 @@ UX / Frontend Navigation      ████░░░░░░░░░░  #197
 <br/><br/>
 
 <!-- ✅ STREAK — demolab.com is independently hosted, never rate-limited, always works -->
-<img src="https://streak-stats.demolab.com/?user=Rachit-Kakkad1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=theRkakkad&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
 
 <br/><br/>
 
 <!-- ✅ ACTIVITY GRAPH — independent vercel deploy by Ashutosh00710, stable -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rachit-Kakkad1&bg_color=1a1b27&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&area=true&area_color=A78BFA" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theRkakkad&bg_color=1a1b27&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&area=true&area_color=A78BFA" width="95%"/>
 
 <br/><br/>
 
@@ -441,9 +441,9 @@ UX / Frontend Navigation      ████░░░░░░░░░░  #197
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rachit-Kakkad1/Rachit-Kakkad1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rachit-Kakkad1/Rachit-Kakkad1/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Rachit-Kakkad1/Rachit-Kakkad1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theRkakkad/theRkakkad/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theRkakkad/theRkakkad/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/theRkakkad/theRkakkad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
